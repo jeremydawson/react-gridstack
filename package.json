@@ -51,8 +51,6 @@
     "webpack-stream": "^3.2.0"
   },
   "dependencies": {
-    "gridstack": "^0.2.5",
-    "jquery": "^2.2.1",
-    "lodash": "^4.11.1"
+    "gridstack": "^0.2.6"
   }
 }
